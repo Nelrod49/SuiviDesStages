@@ -1,0 +1,24 @@
+/*Général*/
+a{
+	text-decoration: none;
+	color : #9C9C9C;
+}
+textarea {
+    resize: none;
+}
+body{
+    margin: 0 auto;
+    width: 800px;
+}
+/*Suivi Stage*/
+#selectEleve{
+	text-align: justify;
+	font-color :
+}
+footer{
+	background-color: #282828;
+	color: #fff;
+}
+footer a{
+	color: #fff;
+}
